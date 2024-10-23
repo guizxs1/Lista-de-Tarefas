@@ -18,7 +18,7 @@ body {
 
 .checked:before {
 
-    content: "";
+    content: "✔";
 
 }
 
